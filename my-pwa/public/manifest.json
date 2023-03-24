@@ -19,7 +19,7 @@
     }
   ],
   "start_url": "https://react-2wwp45e5j-hellojasimworld-gmailcom.vercel.app/",
-  "scope": "https://react-2wwp45e5j-hellojasimworld-gmailcom.vercel.app/",
+  "scope": "https://react-2wwp45e5j-hellojasimworld-gmailcom",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
