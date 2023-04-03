@@ -20,7 +20,7 @@
   ],
   "id":"/react-pwa/",
   "start_url": "/react-pwa",
-  "scope": "/react-pwa",
+  "scope": "/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
