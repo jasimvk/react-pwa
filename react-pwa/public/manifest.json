@@ -14,8 +14,7 @@
       "sizes": "512x512"
     }
   ],
-  "id":"/react-pwa/",
-  "start_url": "/react-pwa",
+  "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "theme_color": "#000000",
